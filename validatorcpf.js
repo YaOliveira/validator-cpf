@@ -1,0 +1,2 @@
+function validatorCPF(cpf) {	
+}

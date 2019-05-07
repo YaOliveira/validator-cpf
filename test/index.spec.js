@@ -32,18 +32,4 @@ describe('função validatorCPF', () => {
   });
 });
 
-// const chai = require('chai');
-// const expect = chai.expect;
-// const validatorCPF = require('../index');
-
-// describe("validatorCPF", () => {
-//     it("cpf invalido", () => {
-//         expect(validatorCPF.validatorCPF(23423423423)).to.equal(false);
-//     });
-
-//     it('cpf valido', () => {
-//         expect(validatorCPF.cpfValidator('21973151880')).to.equal(true);
-//     });
-
-// })
 

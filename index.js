@@ -4,8 +4,7 @@ function digit(array, multiplier) {
 }
 
 function validatorCPF(string) {
-
-
+    
     let arrCPFNumber = string
         .toString()
         .replace(/\D/g, '')
@@ -13,7 +12,6 @@ function validatorCPF(string) {
         .map(Number);
         
     const isEqualNumber = arrCPFNumber.every((elem) => elem === arrCPFNumber[0]);
-    // console.log(isEqualNumber)
     const multOne = 10;
     const multTwo = 11;
 

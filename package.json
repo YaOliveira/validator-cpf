@@ -1,5 +1,5 @@
 {
-  "name": "validator-cpf",
+  "name": "ygovalidatorcpf-lib",
   "version": "1.0.0",
   "description": "Criação de biblioteca para validação de CPF e salvar no NPM.",
   "main": "index.js",

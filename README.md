@@ -1,4 +1,4 @@
-# VALIDADOR DE CPF v.1.0.3
+# VALIDADOR DE CPF v.1.0.4
 
 **Esta biblioteca se destina à verificação de CPFs válidos ou inválidos.**  
 Na versão atual é capaz validar strings e numbers retornando `true` para CPF válido e `false` para CPF inválido.
@@ -38,6 +38,9 @@ $  npm install ygovalidatorcpf-lib
 ```
 
 ## ROADMAP OFICIAL DO PROJETO
+
+#### Versão 1.0.4
+- funcionalidades: correção do README.   
 
 #### Versão 1.0.3 
 - funcionalidades: simplificação ao validar o CPF.  

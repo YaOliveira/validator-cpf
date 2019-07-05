@@ -1,10 +1,10 @@
 {
   "name": "ygovalidatorcpf-lib",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Criação de biblioteca para validação de CPF e salvar no NPM.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/mocha"
   },
   "repository": {
     "type": "git",

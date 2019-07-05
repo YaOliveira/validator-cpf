@@ -16,7 +16,7 @@ $  npm install ygovalidatorcpf-lib
 ```node
 
 > const validatorCPF = require("ygovalidatorcpf-lib");
-> validatorCPF.validatorCPF('10361744846')
+> validatorCPF('10361744846')
 > // returns true
 
 ```
@@ -24,7 +24,7 @@ $  npm install ygovalidatorcpf-lib
 ```node
 
 > const validatorCPF = require("ygovalidatorcpf-lib");
-> validatorCPF.validatorCPF('103617448469')
+> validatorCPF('103617448469')
 > // returns false
 
 ```
@@ -32,7 +32,7 @@ $  npm install ygovalidatorcpf-lib
 ```node
 
 > const validatorCPF = require("ygovalidatorcpf-lib");
-> validatorCPF.validatorCPF('11111111111')
+> validatorCPF('11111111111')
 > // returns false
 
 ```
